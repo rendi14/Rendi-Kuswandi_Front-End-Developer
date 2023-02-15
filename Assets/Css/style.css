@@ -178,7 +178,7 @@ main{
     .card-box-info{ 
         display: flex;
         align-items: center;
-        gap: 4rem;
+        gap: 10rem;
     }
 }
 
