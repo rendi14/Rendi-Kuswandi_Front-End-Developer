@@ -189,7 +189,7 @@ main{
     font-size: 00.65rem;
 }
 
-.card-box-info .pertama{ 
+/* .card-box-info .pertama{ 
     display: inline-block;
     font-size: 12px;
     font-weight: 500;
@@ -211,6 +211,15 @@ main{
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
+    background-color: var(--Very-Dark-Grayish-Cyan);
+    margin-left: -0.5rem;
+} */
+
+.card-box-info span:first-of-type{
+    background-color: var(--Desaturated-Dark-Cyan);
+}
+
+.card-box-info span:nth-of-type(2){
     background-color: var(--Very-Dark-Grayish-Cyan);
     margin-left: -0.5rem;
 }
