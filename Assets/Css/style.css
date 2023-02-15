@@ -200,6 +200,7 @@ main{
     color: var(--white);
     text-transform: uppercase;
     padding: 10px 20px;
+    margin-left: 0.1rem;
 
 }
 
@@ -213,7 +214,7 @@ main{
     font-size: 12px;
     font-weight: 500;
     background-color: var(--Very-Dark-Grayish-Cyan);
-    margin-left: 0.5rem;
+    margin-left: 0.2rem;
     padding: 10px 20px;
 }
 
