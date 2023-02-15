@@ -199,7 +199,7 @@ main{
     border-radius: 100px;
     color: var(--white);
     text-transform: uppercase;
-    padding: 10px 20px;
+    padding: 5px 10px;
     margin-left: 0.1rem;
 
 }
@@ -215,7 +215,7 @@ main{
     font-weight: 500;
     background-color: var(--Very-Dark-Grayish-Cyan);
     margin-left: 0.1rem;
-    padding: 10px 20px;
+    padding: 5px 10px;
 }
 
 
