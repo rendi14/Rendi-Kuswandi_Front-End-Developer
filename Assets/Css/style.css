@@ -221,7 +221,7 @@ main{
 
 .card-box-info span:nth-of-type(2){
     background-color: var(--Very-Dark-Grayish-Cyan);
-    margin-left: -0.5rem;
+    margin-left: 0.5rem;
 }
 
 .card-box-judul{ 
