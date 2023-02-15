@@ -215,11 +215,11 @@ main{
     margin-left: -0.5rem;
 } */
 
-.card-box-info span:first-of-type{
+.card-box-info .pertama:first-of-type{
     background-color: var(--Desaturated-Dark-Cyan);
 }
 
-.card-box-info span:nth-of-type(2){
+.card-box-info .kedua:nth-of-type(2){
     background-color: var(--Very-Dark-Grayish-Cyan);
     margin-left: -0.5rem;
 }
